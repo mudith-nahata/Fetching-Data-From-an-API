@@ -7,7 +7,9 @@
 
 -->We need to copy the entire JSON data to the JSON Viewer tool, So that we will get the entire information of that particular data.
 
--->So After getting the data ,Whenever we are going to run the URL with the API key,So if get the HTTP codes as Response 200, that means data has been fetched successfully from an HTTP Request.
+-->So After getting the data ,Whenever we are going to run the URL with the API key,
+   So if get the HTTP codes as Response 200, that means data has been fetched successfully from an HTTP Request.
+   
 
 -->After getting the data we need to convert the fetched data into JSON Format.
 
